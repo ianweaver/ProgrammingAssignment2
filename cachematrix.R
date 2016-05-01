@@ -5,6 +5,7 @@
 ## Created in Response to R Programming course, programming assignment 2
 ## Created by Ian Weaver on 2016/05/01, contact ian.g.weaver@gmail.com
 ## Forked from https://github.com/rdpeng/ProgrammingAssignment2
+## (ignore) Minor edit to enable new push
 
 
 
